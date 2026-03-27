@@ -1,0 +1,19 @@
+{
+  "name": "accounting",
+  "version": "1.0.0",
+  "description": "Converted COBOL Account Management System to Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
